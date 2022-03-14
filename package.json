@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/mirumee/saleor-dashboard/issues"
   },
-  "homepage": "https://saleor.io/",
+  "homepage": "https://ecommerce.pokestudio.it/dashboard/",
   "engines": {
     "node": ">=14 <15",
     "npm": ">=6.11.0 <7"
